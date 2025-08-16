@@ -64,7 +64,7 @@ A solução segue uma **arquitetura multicamadas**:
 ---
 
 ## 📂 Estrutura dos Repositórios
-- **[`SAE_back`]([./SAE_back](https://github.com/aps-2025-SAE/SAE_back))** → API REST em Laravel  
+- **[`SAE_back`](./SAE_back)** → API REST em Laravel  
 - **[`SAE_front`]([./SAE_front](https://github.com/aps-2025-SAE/SAE_front))** → Painel administrativo e secretariado (React)  
 - **[`SAE_front_client`]([./SAE_front_client](https://github.com/aps-2025-SAE/SAE_front_client))** → Portal do cliente (Next.js)  
 
